@@ -1,0 +1,21 @@
+/* CSS HEX */
+/* --chestnut: #9C4F43ff;
+--bole: #84453Eff;
+--redwood: #A66056ff;
+--isabelline: #F2EBEAff;
+--garnet: #613737ff;
+--white: #FFFFFFff;
+--english-violet: #674C77ff;
+--rosy-brown: #C1A0A2ff; */
+
+body {
+    background-color: #F2EBEAff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    text-align: center;
+}
